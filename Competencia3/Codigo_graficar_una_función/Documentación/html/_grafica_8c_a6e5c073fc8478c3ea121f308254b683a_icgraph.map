@@ -1,0 +1,6 @@
+<map id="gnuplot_setstyle" name="gnuplot_setstyle">
+<area shape="rect" id="node2" href="$_grafica_8h.html#a810f2ef3aa51bde83c46af4a3eca4072" title="graficar() da inicio a la graficacion de la funcion. " alt="" coords="338,5,402,32"/>
+<area shape="rect" id="node4" href="$_grafica_8h.html#af38602f2bf3bf427b4c6af1e3cc6f371" title="Opens up a gnuplot session, ready to receive commands. " alt="" coords="171,31,259,57"/>
+<area shape="rect" id="node5" href="$_grafica_8h.html#aa39b56b6bb882ace839a3be677d1f665" title="Open a new session, plot a signal, close the session. " alt="" coords="307,68,433,95"/>
+<area shape="rect" id="node3" href="$main_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="481,5,532,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$_clientes_8c.html#a2b5f803afff73436bb26f2705999628c" title="Va solicita el usuario los datos de hora de inicio&#45;fin, el número de cajas y el número de clientes en esper..." alt="" coords="114,5,211,32"/>
+<area shape="rect" id="node3" href="$_clientes_8c.html#a21a9d0f8745e214d7925454863a093d6" title="Se va arealiza el calculo correspondiente a la capcidad de salida. " alt="" coords="104,56,221,83"/>
+<area shape="rect" id="node4" href="$_clientes_8c.html#a3a6a87ca9afc67cb1fbf4bc0da01f36b" title="Se realiza el calculo correspondiente a la salida de clientes y a la cola de espera. " alt="" coords="111,107,214,133"/>
+<area shape="rect" id="node5" href="$_clientes_8c.html#ad4c1107723ab0707bc65d3d9304744d3" title="Se va realiza el calculo correspondiente para Input. " alt="" coords="137,157,188,184"/>
+<area shape="rect" id="node6" href="$_clientes_8c.html#a7799c118a8e28dcc8adca649a27f662e" title="Se va realiza el calculo correspondiente para Output. " alt="" coords="133,208,192,235"/>
+<area shape="rect" id="node7" href="$_clientes_8c.html#acd4037be7838aca142d94f3c59f2cf2e" title="Imprime la matriz. " alt="" coords="129,259,197,285"/>
+<area shape="rect" id="node8" href="$_clientes_8c.html#ad69d77748075607bf7f70f36e7ef8529" title="Los datos obtenidos de Input y Output se realiza una opción donde te va indicar la capasidad de cada hor..." alt="" coords="107,309,218,336"/>
+</map>

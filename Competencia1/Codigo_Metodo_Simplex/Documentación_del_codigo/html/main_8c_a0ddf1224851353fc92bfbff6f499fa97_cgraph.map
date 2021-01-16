@@ -1,0 +1,10 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$_medo_simplex_8c.html#a05d93284c6c919331b3432334610f102" title="Inserta 0 en toda la matriz. " alt="" coords="139,5,211,32"/>
+<area shape="rect" id="node3" href="$_medo_simplex_8c.html#ac9c81623578490266311f64e8fce00f9" title="Pide al usuario los datos de la función. " alt="" coords="114,56,237,83"/>
+<area shape="rect" id="node4" href="$_medo_simplex_8c.html#aef9a4876f6685a1c96b5db4d26ebe189" title="Pide al usuario los valores de las restricciones. " alt="" coords="104,107,247,133"/>
+<area shape="rect" id="node5" href="$_medo_simplex_8c.html#aa5f72263b6c36a0bbca0d056ce09a210" title="Imprime la cadena de dos dimesiones. " alt="" coords="141,157,209,184"/>
+<area shape="rect" id="node6" href="$_medo_simplex_8c.html#a7ee01caf26c79ba50b4bdb772e5fec96" title="Busca cuál es la columna que tenga el dato de menor valor, esto para sacar el pivote. " alt="" coords="142,208,209,235"/>
+<area shape="rect" id="node7" href="$_medo_simplex_8c.html#af9c83af94e2507253f028a689c2b1897" title="Busca cuál es la fila que tenga el dato de menor valor, esto para sacar el pivote. " alt="" coords="142,259,209,285"/>
+<area shape="rect" id="node8" href="$_medo_simplex_8c.html#ac9a8948848b355a404e49f658d86c24d" title="Divide todos los tados de la fila de menor valor entre el número pivote. " alt="" coords="129,309,221,336"/>
+<area shape="rect" id="node9" href="$_medo_simplex_8c.html#abdc5312ffcbbea43f8386ca3f6940df4" title="Remplaza los valores de lla tabla para obtener el resultado final. " alt="" coords="140,360,211,387"/>
+</map>
